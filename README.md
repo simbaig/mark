@@ -13,7 +13,6 @@
 ### 🛠 &nbsp;Daily drivers
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp; -->
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,6 +23,7 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-DF6D17?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-05200F?style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
 ![Mac OS](https://img.shields.io/badge/mac%20os-171717?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
+<!-- ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp; -->
 
 <br />
 
