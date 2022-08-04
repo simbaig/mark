@@ -13,7 +13,7 @@
 ### 🛠 &nbsp;Daily drivers
 
 ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![NextJS](https://img.shields.io/badge/nextjs-%#000000.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/nextjs-%#23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-171722?style=for-the-badge&logo=github)&nbsp;
