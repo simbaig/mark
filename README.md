@@ -67,7 +67,7 @@
 </p>
 <br>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=0D1117&color=5BCDEC&line=C6A76E&point=834C54&hide_border=true">
 </p>
 
 <br />
