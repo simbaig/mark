@@ -65,6 +65,10 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=simbaig&theme=onedark&hide_border=true" />
   </a>
 </p>
+<br>
+<p align="left">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
+</p>
 
 <br />
 
@@ -75,9 +79,6 @@
 <a href="https://www.linkedin.com/in/wasim-ay/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:wasimbaig000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
-<br>
-<div><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=simbaig&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
-<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
 <p align="center"> 
   Visitor count<br>
