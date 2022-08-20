@@ -60,13 +60,13 @@
 ### ⚙️ &nbsp;Some Stats
 
 <p align="left">
-  <a href="https://ognjenbostjancic.com/">
+  <a href="/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=simbaig&show_icons=true&theme=onedark&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=simbaig&theme=onedark&hide_border=true" />
   </a>
 </p>
 <br>
-<p align="left">
+<p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
 </p>
 
