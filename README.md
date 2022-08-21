@@ -69,6 +69,7 @@
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=282C34&color=DF6D74&line=C6A76E&point=FFFFFF&hide_border=true">
 </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=simbaig)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
