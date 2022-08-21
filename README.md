@@ -67,7 +67,7 @@
 </p>
 <br>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=141321&color=FE428E&line=A9FEF7&point=F6D646&hide_border=true">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
 </p>
 <p><img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=simbaig"></P>
 
