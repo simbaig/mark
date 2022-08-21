@@ -61,8 +61,8 @@
 
 <p align="left">
   <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=simbaig&show_icons=true&theme=onedark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=simbaig&theme=onedark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=simbaig&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=simbaig&theme=radical&hide_border=true" />
   </a>
 </p>
 <br>
