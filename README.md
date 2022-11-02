@@ -1,6 +1,7 @@
 ## Hi, I'm Wasim 👋
 
 <br />
+<br />
 
 💡 &nbsp;A [pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)\
 🌱 &nbsp;Learning something new about 💻 every day.\
