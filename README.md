@@ -71,7 +71,7 @@
 </p>
 <p><img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=simbaig"></P>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=simbaig&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=simbaig&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 ### 🤝🏻 &nbsp;Get in touch
 
