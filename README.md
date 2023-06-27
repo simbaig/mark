@@ -1,4 +1,4 @@
-## Hi, I'm Wasim 👋
+## Hi, I'm Wasim. 👋
 
 <br />
 <br />
